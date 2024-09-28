@@ -55,6 +55,13 @@ img {
   height: auto;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .card-container {
   background: var(--white);
   width: 100%;
