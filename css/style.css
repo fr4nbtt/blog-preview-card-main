@@ -66,6 +66,7 @@ img {
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
+  margin-top: 2rem;
 }
 
 .card-container .post-image {
@@ -136,4 +137,10 @@ img {
 .attribution a:hover {
   text-decoration: underline;
   color: var(--gray-950);
+}
+
+@media (max-width: 500px) {
+  .card-container {
+    max-width: 90%;
+  }
 }
