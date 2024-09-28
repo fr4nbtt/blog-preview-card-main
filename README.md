@@ -15,12 +15,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](./images/screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ### Links
 
-- **Solution URL: **
-- **Live Site URL: **
+- **Solution URL: https://github.com/fr4nbtt/blog-preview-card-main**
+- **Live Site URL: https://fr4nbtt.github.io/blog-preview-card-main/**
 
 ## My process
 
